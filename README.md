@@ -1,0 +1,1 @@
+This repository contains various Python projects created in my Dataquest Datascience course. Projects include supervised and unsupervised machine learning models, such as K-Nearest Neigbour classifier and K-Means algorithm.
